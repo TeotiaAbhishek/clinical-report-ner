@@ -1,0 +1,24 @@
+{
+  "thyroid_iron_panel.txt": [
+    {"parameter": "TSH", "value": "1.92", "unit": "miIU/L"},
+    {"parameter": "FT4", "value": "14", "unit": "pmol/L"},
+    {"parameter": "FT3", "value": "4.6", "unit": "pmol/L"},
+    {"parameter": "Ferritin", "value": "85", "unit": "ug/L"},
+    {"parameter": "Transferrin", "value": "2.7", "unit": "g/L"}
+  ],
+  "diabetes_lipids.txt": [
+    {"parameter": "HbA1c", "value": "7.20", "unit": "%"},
+    {"parameter": "Total Cholesterol", "value": "5.8", "unit": "mmol/L"},
+    {"parameter": "Triglycerides", "value": "2.1", "unit": "mmol/L"},
+    {"parameter": "HDL Cholesterol", "value": "1.1", "unit": "mmol/L"},
+    {"parameter": "LDL Cholesterol", "value": "3.7", "unit": "mmol/L"}
+  ],
+  "renal_liver.txt": [
+    {"parameter": "Urea", "value": "5.4", "unit": "mmol/L"},
+    {"parameter": "Creatinine", "value": "72", "unit": "umol/L"},
+    {"parameter": "eGFR", "value": "88", "unit": "mL/min"},
+    {"parameter": "ALT", "value": "22", "unit": "U/L"},
+    {"parameter": "Albumin", "value": "41", "unit": "g/L"},
+    {"parameter": "CRP", "value": "3.2", "unit": "mg/L"}
+  ]
+}

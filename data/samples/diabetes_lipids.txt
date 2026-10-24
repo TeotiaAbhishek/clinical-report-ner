@@ -1,0 +1,14 @@
+SYNTHETIC PATHOLOGY REPORT - FOR TESTING ONLY
+Patient Name: John Sample   Age/Gender: 52/Male
+Sample Collected On: 12/Feb/2024 08:10AM
+
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio. Ref Interval
+
+HbA1c 7.20 % 4.2-5.7
+Total Cholesterol 5.8 mmol/L
+Triglycerides 2.1 mmol/L
+HDL Cholesterol 1.1 mmol/L
+LDL Cholesterol 3.7 mmol/L
+
+INTERPRETATION: HbA1c above target. Lipids elevated.

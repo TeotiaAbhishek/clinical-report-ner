@@ -1,0 +1,12 @@
+SYNTHETIC PATHOLOGY REPORT - FOR TESTING ONLY
+Record No.: 000000
+Reported 20/01/2024 10:30 AM
+
+ELECTROLYTES, RENAL AND LIVER FUNCTION
+Specimen Type: Serum
+Urea (3.0-8.0) mmol/L 5.4
+Creatinine (45-90) umol/L 72
+eGFR (>60) mL/min 88
+ALT (<35) U/L 22
+Albumin (35-50) g/L 41
+CRP 3.2 mg/L (<5)

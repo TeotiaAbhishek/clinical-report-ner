@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clinical-ner"
+version = "1.0.0"
+description = "Extract test names, values and units from OCR'd pathology reports"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Abhishek Teotia" }]
+dependencies = [
+    "spacy>=3.7,<3.9",
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "httpx>=0.27", "ruff>=0.4"]
+
+[project.scripts]
+clinical-ner = "clinical_ner.cli:main"
+
+[tool.setuptools]
+packages = ["clinical_ner"]
+
+[tool.setuptools.package-data]
+clinical_ner = ["resources/*.json"]
+
+[tool.ruff]
+line-length = 110
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: trains a small model (about 20 s)"]

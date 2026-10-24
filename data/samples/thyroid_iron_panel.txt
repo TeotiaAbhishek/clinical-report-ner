@@ -1,0 +1,17 @@
+SYNTHETIC PATHOLOGY REPORT - FOR TESTING ONLY
+Patient Name: Jane Example
+D.O.B: 01/01/1970 Gender: F
+Date Collected: 05/03/2024 Complete: Final
+
+THYROID PROFILE
+Specimen Type: Serum
+
+TSH (0.5-4.0) miIU/L 1.92
+FT4 (10-20) pmol/L 14
+FT3 (3.5-6.0) pmol/L 4.6
+
+IRON STUDIES
+Ferritin (30-300) ug/L 85
+Transferrin (2.0-3.6) g/L 2.7
+
+Comment: Thyroid function within reference limits.
